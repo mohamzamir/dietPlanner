@@ -8,7 +8,7 @@ python3 -m venv venv
 
 ## Step 2: Download requirements
 ```python3
-pip3 install -r requirements.txtv
+pip3 install -r requirements.txt
 ```
 If ```pip``` doesn't work ```pip3``` should.
 
