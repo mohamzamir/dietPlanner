@@ -52,42 +52,6 @@ def fetch_and_process_menu(url):
     Returns:
         Dictionary of {item_name: calories} or None if request fails
     """
-    try:
-        # Make HTTP GET request with timeout safety
-        response = requests.get(url)
-
-        # Check for successful response before processing
-        if response.status_code == 200:
-            data = response.json()
-            menu_items = {}
-
-            # Get today's date in the format used by the API (YYYY-MM-DD)
-            today_str = datetime.now().strftime("%Y-%m-%d")
-
-            # Search through days to find today's menu
-            for day in data.get('days', []):
-                if day.get('date') == today_str:
-                    # Process each menu item in today's menu
-                    for item in day.get('menu_items', []):
-                        # Skip section headers and invalid entries
-                        if not item.get('is_section_title') and item.get('food'):
-                            food = item['food']
-
-                            # Extract and clean food name
-                            name = food.get('name', '').strip()
-
-                            # Extract and round calorie count
-                            calories = food.get('rounded_nutrition_info', {}).get('calories')
-
-                            # Only add entries with valid names and calorie counts
-                            if name and calories is not None:
-                                menu_items[name] = int(round(calories))
-                    break  # Exit loop after processing today's menu
-            return menu_items
-        return None
-    except Exception as e:
-        # Print error but continue processing other URLs
-        print(f"Error processing {url}: {str(e)}")
         return None
 
 
