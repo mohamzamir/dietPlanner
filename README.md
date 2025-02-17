@@ -23,4 +23,12 @@ python3 diet_planner.py
 ```
 This may take a while!
 
+## Step 5:
+You must add the API-Key in diet_planner.py
+
+copy paste the it into ```api_key="THE_ACTUAL_KEY"```
+
+*Thank **amir** for the super long wait time*
 *Thank amir for the super long wait time*
+*Thank amir for the super long wait time*
+
