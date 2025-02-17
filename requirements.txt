@@ -1,6 +1,0 @@
-# Core dependencies
-openai>=1.0.0        # For OpenAI API access (diet plan generator)
-requests>=2.31.0     # For HTTP requests (menu data fetcher)
-
-# Python version constraint (if needed)
-python>=3.9          # Required for type hints and modern features
