@@ -1,0 +1,88 @@
+{
+  "Craft": {
+    "Acai & Smoothies": "https://stonybrook.nutrislice.com/menu/sac-market/craft-omelets",
+    "Salads": "https://stonybrook.nutrislice.com/menu/sac-market/rotisserie"
+  },
+  "Dental Cafe": "https://stonybrook.nutrislice.com/menu/sbu-eats-events/dental-cafe",
+  "East Side Dining": {
+    "Breakfast Specials": "https://stonybrook.nutrislice.com/menu/east-side-dining/dine-in-hot-breakfast-buffet",
+    "Breads & Sticks": "https://stonybrook.nutrislice.com/menu/east-side-dining/dine-in-hot-breakfast-buffet",
+    "Hot Cereal": "https://stonybrook.nutrislice.com/menu/east-side-dining/dine-in-hot-cereal",
+    "Omelet Bar": "https://stonybrook.nutrislice.com/menu/east-side-dining/dine-in-omelet-bar",
+    "Yogurt & Fruit Bar": "https://stonybrook.nutrislice.com/menu/east-side-dining/yogurt-fruit-bar",
+    "Chef's Table": "https://stonybrook.nutrislice.com/menu/east-side-dining/dine-in-chefs-table",
+    "Rooted": "https://stonybrook.nutrislice.com/menu/east-side-dining/dine-in-vegan-delights",
+    "Desert": "https://stonybrook.nutrislice.com/menu/east-side-dining/dine-in-dessert",
+    "Pizza": "https://stonybrook.nutrislice.com/menu/east-side-dining/dine-in-pizza",
+    "Soup": "https://stonybrook.nutrislice.com/menu/east-side-dining/dine-in-soup",
+    "Grill": "https://stonybrook.nutrislice.com/menu/east-side-dining/dine-in-grill",
+    "Online Menu for Avoiding Gluten Options": "https://stonybrook.nutrislice.com/menu/east-side-dining/avoiding-gluten-online-menu",
+    "Pasta Special": "https://stonybrook.nutrislice.com/menu/east-side-dining/pasta-bar",
+    "Salad Bar": "https://stonybrook.nutrislice.com/menu/east-side-dining/dine-in-salad-bar",
+    "Deli": "https://stonybrook.nutrislice.com/menu/east-side-dining/dine-in-deli"
+  },
+  "East Side Retail": {
+    "Soup": "https://stonybrook.nutrislice.com/menu/east-side-retail/dine-in-soup",
+    "Delancey Street": "https://stonybrook.nutrislice.com/menu/east-side-retail/delancey-street",
+    "Island Soul": "https://stonybrook.nutrislice.com/menu/east-side-retail/island-soul",
+    "Wicked Wingz": "https://stonybrook.nutrislice.com/menu/east-side-retail/urban-eats-craft-salads",
+    "Cocina Fresca": "https://stonybrook.nutrislice.com/menu/east-side-retail/urban-eats-smoothies-shakes",
+    "Carvel Nutritional Information": "https://stonybrook.nutrislice.com/menu/east-side-retail/carvel-nutritional-information",
+    "Halal N.Y": "https://stonybrook.nutrislice.com/menu/east-side-retail/halal",
+    "Iron Waffle": "https://stonybrook.nutrislice.com/menu/east-side-retail/iron-waffle"
+  },
+  "Jasmine": {
+    "Curry Kitchen": "https://stonybrook.nutrislice.com/menu/jasmine/curry-kitchen",
+    "Jasmine Tea House": "https://stonybrook.nutrislice.com/menu/jasmine/jasmine-tea-house",
+    "Hibachi Grill": "https://stonybrook.nutrislice.com/menu/jasmine/hibachi",
+    "Cafetasia Korean": "https://stonybrook.nutrislice.com/menu/jasmine/cafetasia-korean",
+    "Cafetasia Chinese": "https://stonybrook.nutrislice.com/menu/jasmine/cafetasia-chinese"
+  },
+  "Peet's Coffee": "https://stonybrook.nutrislice.com/menu/peets-coffee/peets-just-bagels",
+  "Roth": {
+    "Popeyes": "https://stonybrook.nutrislice.com/menu/roth/popeyes",
+    "Subway": "https://stonybrook.nutrislice.com/menu/roth/subway",
+    "Savor": "https://stonybrook.nutrislice.com/menu/roth/chef-jet",
+    "Smash n' Shake": "https://stonybrook.nutrislice.com/menu/roth/smash-n-shake"
+  },
+  "Student Activities Center": {
+    "Seawolves Pizza": "https://stonybrook.nutrislice.com/menu/sac/tuscan-bistro",
+    "Noodles": "https://stonybrook.nutrislice.com/menu/sac/noodles",
+    "Wok Work | Stir Fry": "https://stonybrook.nutrislice.com/menu/sac/stiry-fry",
+    "SAC Grill": "https://stonybrook.nutrislice.com/menu/sac/grill",
+    "Kickin' Chickin'": "https://stonybrook.nutrislice.com/menu/sac/kick-n-chicken",
+    "Soups & Chili": "https://stonybrook.nutrislice.com/menu/sac/grab-n-go",
+    "Healthy By Nature": "https://stonybrook.nutrislice.com/menu/sac/healthy-by-nature-2",
+    "Corner Deli": "https://stonybrook.nutrislice.com/menu/sac/deli"
+  },
+  "Seawolves Kitchen - Training Table": "https://stonybrook.nutrislice.com/menu/seawolves-kitchen-training-table/seawolves-kitchen-training-table",
+  "Starbucks | Roth": "https://stonybrook.nutrislice.com/menu/starbucks-roth/starbucks",
+  "Stony Brook Southhampton": "https://stonybrook.nutrislice.com/menu/stony-brook-southampton/southhampton-specials",
+  "The Emporium (Bulk Ordering)": {
+    "Bulk Ordering": "https://stonybrook.nutrislice.com/menu/the-emporium/bulk-ordering",
+    "SBU Food Pantry Donation": "https://stonybrook.nutrislice.com/menu/the-emporium/food-donation"
+  },
+  "The Market at West Side (Bulk Ordering)": {
+    "Bakery & Desserts": "https://stonybrook.nutrislice.com/menu/market-at-west-side-the-emporium/bakery-desserts",
+    "Bulk Ordering": "https://stonybrook.nutrislice.com/menu/market-at-west-side-the-emporium/bulk-ordering",
+    "SBU Food Pantry Donation": "https://stonybrook.nutrislice.com/menu/market-at-west-side-the-emporium/food-donation"
+  },
+  "West Side Dining": {
+    "Breakfast Specials": "https://stonybrook.nutrislice.com/menu/west-side-dining/dine-in-hot-breakfast-buffet",
+    "Bagels, Breads & Spreads": "https://stonybrook.nutrislice.com/menu/west-side-dining/dine-in-bagel-bar",
+    "Hot Cereal": "https://stonybrook.nutrislice.com/menu/west-side-dining/dine-in-hot-cereal",
+    "Omelet Bar": "https://stonybrook.nutrislice.com/menu/west-side-dining/dine-in-omelet-bar",
+    "Yogurt & Fruit Bar": "https://stonybrook.nutrislice.com/menu/west-side-dining/yogurt-fruit-bar",
+    "International Market": "https://stonybrook.nutrislice.com/menu/west-side-dining/internation-market",
+    "Taste Changers": "https://stonybrook.nutrislice.com/menu/west-side-dining/taste-changers",
+    "Rooted": "https://stonybrook.nutrislice.com/menu/west-side-dining/dine-in-vegan-delights",
+    "Dessert": "https://stonybrook.nutrislice.com/menu/west-side-dining/dine-in-dessert",
+    "Pizza": "https://stonybrook.nutrislice.com/menu/west-side-dining/dine-in-pizza",
+    "Soup": "https://stonybrook.nutrislice.com/menu/west-side-dining/dine-in-soup",
+    "Grill": "https://stonybrook.nutrislice.com/menu/west-side-dining/dine-in-grill",
+    "Online Menu for Avoiding Gluten Options": "https://stonybrook.nutrislice.com/menu/west-side-dining/avoiding-gluten-online-menu",
+    "Pasta Specials": "https://stonybrook.nutrislice.com/menu/west-side-dining/pasta-bar",
+    "Salad Bar": "https://stonybrook.nutrislice.com/menu/west-side-dining/dine-in-salad-bar",
+    "Deli": "https://stonybrook.nutrislice.com/menu/west-side-dining/dine-in-deli"
+  }
+}

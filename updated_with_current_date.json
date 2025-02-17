@@ -1,0 +1,209 @@
+{
+    "Craft": {
+        "Acai & Smoothies": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/sac-market/menu-type/craft-omelets/2025/02/17/",
+            "menu_items": {
+                "apple": 500,
+                "pancakes": 300
+            }
+        },
+        "Salads": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/sac-market/menu-type/rotisserie/2025/02/17/"
+        }
+    },
+    "Dental Cafe": {
+        "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/sbu-eats-events/menu-type/dental-cafe/2025/02/17/"
+    },
+    "East Side Dining": {
+        "Breakfast Specials": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/east-side-dining/menu-type/dine-in-hot-breakfast-buffet/2025/02/17/"
+        },
+        "Breads & Sticks": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/east-side-dining/menu-type/dine-in-hot-breakfast-buffet/2025/02/17/"
+        },
+        "Hot Cereal": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/east-side-dining/menu-type/dine-in-hot-cereal/2025/02/17/"
+        },
+        "Omelet Bar": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/east-side-dining/menu-type/dine-in-omelet-bar/2025/02/17/"
+        },
+        "Yogurt & Fruit Bar": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/east-side-dining/menu-type/yogurt-fruit-bar/2025/02/17/"
+        },
+        "Chef's Table": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/east-side-dining/menu-type/dine-in-chefs-table/2025/02/17/"
+        },
+        "Rooted": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/east-side-dining/menu-type/dine-in-vegan-delights/2025/02/17/"
+        },
+        "Desert": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/east-side-dining/menu-type/dine-in-dessert/2025/02/17/"
+        },
+        "Pizza": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/east-side-dining/menu-type/dine-in-pizza/2025/02/17/"
+        },
+        "Soup": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/east-side-dining/menu-type/dine-in-soup/2025/02/17/"
+        },
+        "Grill": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/east-side-dining/menu-type/dine-in-grill/2025/02/17/"
+        },
+        "Online Menu for Avoiding Gluten Options": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/east-side-dining/menu-type/avoiding-gluten-online-menu/2025/02/17/"
+        },
+        "Pasta Special": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/east-side-dining/menu-type/pasta-bar/2025/02/17/"
+        },
+        "Salad Bar": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/east-side-dining/menu-type/dine-in-salad-bar/2025/02/17/"
+        },
+        "Deli": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/east-side-dining/menu-type/dine-in-deli/2025/02/17/"
+        }
+    },
+    "East Side Retail": {
+        "Soup": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/east-side-retail/menu-type/dine-in-soup/2025/02/17/"
+        },
+        "Delancey Street": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/east-side-retail/menu-type/delancey-street/2025/02/17/"
+        },
+        "Island Soul": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/east-side-retail/menu-type/island-soul/2025/02/17/"
+        },
+        "Wicked Wingz": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/east-side-retail/menu-type/urban-eats-craft-salads/2025/02/17/"
+        },
+        "Cocina Fresca": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/east-side-retail/menu-type/urban-eats-smoothies-shakes/2025/02/17/"
+        },
+        "Carvel Nutritional Information": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/east-side-retail/menu-type/carvel-nutritional-information/2025/02/17/"
+        },
+        "Halal N.Y": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/east-side-retail/menu-type/halal/2025/02/17/"
+        },
+        "Iron Waffle": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/east-side-retail/menu-type/iron-waffle/2025/02/17/"
+        }
+    },
+    "Jasmine": {
+        "Curry Kitchen": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/jasmine/menu-type/curry-kitchen/2025/02/17/"
+        },
+        "Jasmine Tea House": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/jasmine/menu-type/jasmine-tea-house/2025/02/17/"
+        },
+        "Hibachi Grill": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/jasmine/menu-type/hibachi/2025/02/17/"
+        },
+        "Cafetasia Korean": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/jasmine/menu-type/cafetasia-korean/2025/02/17/"
+        },
+        "Cafetasia Chinese": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/jasmine/menu-type/cafetasia-chinese/2025/02/17/"
+        }
+    },
+    "Peet's Coffee": {
+        "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/peets-coffee/menu-type/peets-just-bagels/2025/02/17/"
+    },
+    "Roth": {
+        "Popeyes": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/roth/menu-type/popeyes/2025/02/17/"
+        },
+        "Subway": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/roth/menu-type/subway/2025/02/17/"
+        },
+        "Savor": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/roth/menu-type/chef-jet/2025/02/17/"
+        },
+        "Smash n' Shake": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/roth/menu-type/smash-n-shake/2025/02/17/"
+        }
+    },
+    "Student Activities Center": {
+        "Seawolves Pizza": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/sac/menu-type/tuscan-bistro/2025/02/17/"
+        },
+        "Noodles": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/sac/menu-type/noodles/2025/02/17/"
+        },
+        "Wok Work | Stir Fry": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/sac/menu-type/stiry-fry/2025/02/17/"
+        },
+        "SAC Grill": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/sac/menu-type/grill/2025/02/17/"
+        },
+        "Kickin' Chickin'": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/sac/menu-type/kick-n-chicken/2025/02/17/"
+        },
+        "Soups & Chili": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/sac/menu-type/grab-n-go/2025/02/17/"
+        },
+        "Healthy By Nature": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/sac/menu-type/healthy-by-nature-2/2025/02/17/"
+        },
+        "Corner Deli": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/sac/menu-type/deli/2025/02/17/"
+        }
+    },
+    "Seawolves Kitchen - Training Table": {
+        "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/seawolves-kitchen-training-table/menu-type/seawolves-kitchen-training-table/2025/02/17/"
+    },
+    "Starbucks | Roth": {
+        "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/starbucks-roth/menu-type/starbucks/2025/02/17/"
+    },
+    "Stony Brook Southhampton": {
+        "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/stony-brook-southampton/menu-type/southhampton-specials/2025/02/17/"
+    },
+    "West Side Dining": {
+        "Breakfast Specials": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/west-side-dining/menu-type/dine-in-hot-breakfast-buffet/2025/02/17/"
+        },
+        "Bagels, Breads & Spreads": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/west-side-dining/menu-type/dine-in-bagel-bar/2025/02/17/"
+        },
+        "Hot Cereal": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/west-side-dining/menu-type/dine-in-hot-cereal/2025/02/17/"
+        },
+        "Omelet Bar": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/west-side-dining/menu-type/dine-in-omelet-bar/2025/02/17/"
+        },
+        "Yogurt & Fruit Bar": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/west-side-dining/menu-type/yogurt-fruit-bar/2025/02/17/"
+        },
+        "International Market": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/west-side-dining/menu-type/internation-market/2025/02/17/"
+        },
+        "Taste Changers": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/west-side-dining/menu-type/taste-changers/2025/02/17/"
+        },
+        "Rooted": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/west-side-dining/menu-type/dine-in-vegan-delights/2025/02/17/"
+        },
+        "Dessert": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/west-side-dining/menu-type/dine-in-dessert/2025/02/17/"
+        },
+        "Pizza": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/west-side-dining/menu-type/dine-in-pizza/2025/02/17/"
+        },
+        "Soup": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/west-side-dining/menu-type/dine-in-soup/2025/02/17/"
+        },
+        "Grill": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/west-side-dining/menu-type/dine-in-grill/2025/02/17/"
+        },
+        "Online Menu for Avoiding Gluten Options": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/west-side-dining/menu-type/avoiding-gluten-online-menu/2025/02/17/"
+        },
+        "Pasta Specials": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/west-side-dining/menu-type/pasta-bar/2025/02/17/"
+        },
+        "Salad Bar": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/west-side-dining/menu-type/dine-in-salad-bar/2025/02/17/"
+        },
+        "Deli": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/west-side-dining/menu-type/dine-in-deli/2025/02/17/"
+        }
+    }
+}

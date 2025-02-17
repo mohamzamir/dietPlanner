@@ -1,0 +1,1276 @@
+{
+    "Craft": {
+        "Acai & Smoothies": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/sac-market/menu-type/craft-omelets/2025/02/17/",
+            "menu_items": {
+                "Acai Bowl with Fruit & Oats & Honey Granola": 650,
+                "Craft Your Own Acai Bowl": 210,
+                "Super Green Detox Smoothie": 330,
+                "Mango Tango Yogurt Smoothie": 470,
+                "Acai Berry Blend Immunity Smoothie": 280
+            }
+        },
+        "Salads": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/sac-market/menu-type/rotisserie/2025/02/17/",
+            "menu_items": {
+                "Grilled Chicken Caesar Salad, Parmesan Cheese, Caesar, Anchovy Dressing": 620,
+                "Crispy Chicken Salad, Hard Cooked Egg, Cheddar Cheese, Ranch Dressing": 730,
+                "Miso Ginger Tofu Super Green Salad, Sunflower Seeds": 460,
+                "Chopped Romaine Lettuce": 10,
+                "Baby Spinach": 5,
+                "Kale, Fresh, Chopped": 10,
+                "Spring Mix": 5,
+                "Grilled Chicken": 140,
+                "Crispy Chicken": 410,
+                "Grilled Tofu": 100,
+                "Quinoa": 120,
+                "Sliced Avocado": 60,
+                "Red Bell Pepper": 5,
+                "Sliced Green Bell Pepper": 0,
+                "Black Beans": 40,
+                "Broccoli": 10,
+                "Shredded Carrots": 10,
+                "Cucumber": 0,
+                "Roasted Corn": 120,
+                "Grape Tomatoes": 5,
+                "Edamame": 35,
+                "Roasted Mushrooms": 60,
+                "Chickpeas": 70,
+                "Shredded Red Cabbage": 5,
+                "Hard Boiled Egg": 70,
+                "Mandarin Oranges": 10,
+                "Dried Cranberries": 30,
+                "Jalapeno": 0,
+                "parmesan croutons": 120,
+                "Roasted Sunflower Seeds": 45,
+                "Sliced Red Onion": 10,
+                "Fried Wonton Strips": 10,
+                "Black Olives": 40,
+                "Feta Cheese": 25,
+                "Parmesan Cheese": 10,
+                "Shredded Cheddar Cheese": 230,
+                "Balsamic Vinaigrette Dressing": 60,
+                "Classic Caesar Dressing": 150,
+                "Deluxe Ranch Dressing": 130,
+                "Sesame Ginger Soybean Dressing": 120,
+                "Dijon Honey Dressing": 130,
+                "Fat Free Italian Dressing": 5
+            }
+        }
+    },
+    "Dental Cafe": {
+        "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/sbu-eats-events/menu-type/dental-cafe/2025/02/17/",
+        "menu_items": {
+            "Pork Bacon, Egg & Cheese on a English Muffin": 350,
+            "Turkey Sausage, Egg, Cheese on a English Muffin": 340,
+            "Double Egg & Cheese on a English Muffin": 330,
+            "Margarita Fresca Panini": 500,
+            "Katsu Sando Panko Breaded Pork Cutlet Sandwich": 690,
+            "Grilled Chicken, Basil Pesto, Mozzarella Panini": 780,
+            "buffalo wings": 390,
+            "Roasted Potatoes": 140,
+            "Squash Medley": 60,
+            "Cheese Ravioli Marinara": 350
+        }
+    },
+    "East Side Dining": {
+        "Breakfast Specials": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/east-side-dining/menu-type/dine-in-hot-breakfast-buffet/2025/02/17/",
+            "menu_items": {
+                "Scrambled Eggs with Cream and Butter": 260,
+                "Feta & Tomato Egg Scramble": 100,
+                "Green Pepper & Onion Tofu Scramble": 100,
+                "Pork Breakfast Sausage Patty": 150,
+                "Crispy Tater Tots": 180,
+                "Scrambled Egg Whites": 70
+            }
+        },
+        "Breads & Sticks": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/east-side-dining/menu-type/dine-in-hot-breakfast-buffet/2025/02/17/",
+            "menu_items": {
+                "Scrambled Eggs with Cream and Butter": 260,
+                "Feta & Tomato Egg Scramble": 100,
+                "Green Pepper & Onion Tofu Scramble": 100,
+                "Pork Breakfast Sausage Patty": 150,
+                "Crispy Tater Tots": 180,
+                "Scrambled Egg Whites": 70
+            }
+        },
+        "Hot Cereal": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/east-side-dining/menu-type/dine-in-hot-cereal/2025/02/17/",
+            "menu_items": {
+                "Oatmeal": 150,
+                "Cinnamon Sugar": 25,
+                "Golden Raisins": 30,
+                "Semi Sweet Chocolate Chips": 70,
+                "Oats 'n Honey Granola": 20,
+                "Dried Cranberries": 60,
+                "Honey": 20
+            }
+        },
+        "Omelet Bar": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/east-side-dining/menu-type/dine-in-omelet-bar/2025/02/17/",
+            "menu_items": {
+                "Diced Black Forest Ham": 70,
+                "Italian Sausage Crumbles": 70,
+                "Pork bacon": 90,
+                "Baby Spinach": 0,
+                "Diced Tomatoes": 10,
+                "Diced Onions": 15,
+                "Diced Bell Peppers": 10,
+                "Cheddar Cheese": 90,
+                "Shredded Mozzarella Cheese": 60
+            }
+        },
+        "Yogurt & Fruit Bar": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/east-side-dining/menu-type/yogurt-fruit-bar/2025/02/17/",
+            "menu_items": {
+                "Low Fat Strawberry Yogurt": 220,
+                "Low Fat Vanilla Yogurt": 220,
+                "Oats 'n Honey Granola": 20,
+                "Honeydew": 15,
+                "Cantaloupe": 25,
+                "Watermelon": 10
+            }
+        },
+        "Chef's Table": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/east-side-dining/menu-type/dine-in-chefs-table/2025/02/17/",
+            "menu_items": {
+                "Blueberry Pancakes": 170,
+                "Blueberry Compote": 80,
+                "Teriyaki Chicken": 170,
+                "Jasmine Rice, Scallion": 100,
+                "Sesame Broccoli": 50,
+                "Vegetable Spring Roll": 130,
+                "Classic Chicken Cacciatore": 190,
+                "Herb and Lemon Wild Rice": 130,
+                "Roasted Brussels Sprouts": 25,
+                "Garlic Bread": 200
+            }
+        },
+        "Rooted": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/east-side-dining/menu-type/dine-in-vegan-delights/2025/02/17/",
+            "menu_items": {
+                "Grilled Tofu Teriyaki": 130,
+                "Steamed Rice": 280,
+                "Roasted Cauliflower": 35,
+                "Garlic Bok Choy": 35,
+                "Vegan Hominy Squash Stew": 120,
+                "Basmati Rice": 110,
+                "Grilled Asparagus": 20,
+                "Roasted Zucchini, Squash": 20
+            }
+        },
+        "Desert": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/east-side-dining/menu-type/dine-in-dessert/2025/02/17/",
+            "menu_items": {
+                "Cinnamon Apple Mini Muffin": 240,
+                "Pumpkin Mini Muffin": 250,
+                "Cranberry Mini Muffin": 290,
+                "Chocolate Chip Mini Muffin": 310,
+                "Banana Mini Muffin": 250,
+                "Chocolate Chocolate Chip Mini Muffin": 310,
+                "Corn Mini Muffin": 240,
+                "Carrot Mini Muffin": 220,
+                "Bran Mini Muffin": 230,
+                "Blueberry Mini Muffin": 250,
+                "Lemon Poppy Mini Muffin": 290,
+                "Chocolate Chip Yogurt Jumbo Muffin": 580,
+                "Blueberry Yogurt Jumbo Muffin": 480,
+                "Black and White Cookie": 230,
+                "David's Chocolate Chip Cookie": 180,
+                "David's Gluten Free Chocolate Chip Cookie": 380,
+                "David's Chocolate Chunk Cookie": 190,
+                "David's Sugar Cookie": 190,
+                "David's Oatmeal Raisin Cookie": 170,
+                "Linzer Tart Cookies": 150,
+                "David's Chocolate Chip Brownies": 500,
+                "Brownie (Frosted)": 160,
+                "Blondie (Rockland)": 340,
+                "David's Blondie Pecan Brownies": 540,
+                "Marble Pound Cake": 230,
+                "Plain Pound Cake": 450,
+                "Chocolate Yogurt Pound Cake": 470,
+                "Lemon Poppy Seed Yogurt Pound Cake": 450,
+                "Blueberry Yogurt Pound Cake": 450,
+                "Plain Yogurt Pound Cake": 450,
+                "Marble Yogurt Pound Cake": 460,
+                "Carrot Pound Cake": 330,
+                "Meltaway Ring": 180,
+                "Blueberry Scone": 250,
+                "Chocolate Chip Scone": 300,
+                "Blueberry Scone (mini)": 35,
+                "Chocolate Chip Scone (mini)": 45,
+                "Cranberry Scone (mini)": 40,
+                "Cinnamon Raisin Scone (mini)": 40,
+                "Cheese Mini Danish": 160,
+                "Cinnamon Bun Danish Mini": 160,
+                "Apple Turnover Danish Mini": 80,
+                "Blueberry Mini Danish": 150,
+                "Cinnamon Mini Danish": 170,
+                "Lemon Mini Danish": 150,
+                "Raspberry Mini Danish": 150,
+                "Glazed Mini Donut": 100,
+                "Jelly Powder Mini Donut": 120,
+                "Powder Mini Donut": 120,
+                "Chocolate Frosted Mini Donut with Sprinkles": 80,
+                "Vanilla Frosted Mini Donut with Sprinkles": 80,
+                "Vanilla Cupcake with Vanilla Icing": 240,
+                "Vanilla Cupcake with Chocolate Icing": 270,
+                "Chocolate Cupcake with Chocolate Icing": 280,
+                "Chocolate Cupcake with Vanilla Icing": 270,
+                "Chocolate Mousse Cake": 550,
+                "Sara Lee Iced Chocolate Cake": 300,
+                "Sara Lee Iced Banana Cake": 270,
+                "Honey Cake": 250,
+                "Carrot Bundt Cake": 350,
+                "Blueberry Bundt Cake": 410,
+                "Chocolate Bundt Cake with Icing": 460,
+                "Apple Bundt Cake": 370,
+                "Lemon Bundt Cake with Icing": 450,
+                "Italian Cannoli": 120,
+                "Italian Chocolate Cannoli": 160,
+                "Italian Cream Puff": 70,
+                "Italian Chocolate Cream Puff": 70,
+                "Apple Crumb Pie 10\"": 380,
+                "Apple Pie 10\"": 270,
+                "Mini Fruit Tart": 100
+            }
+        },
+        "Pizza": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/east-side-dining/menu-type/dine-in-pizza/2025/02/17/",
+            "menu_items": {
+                "Cheese Pizza": 360,
+                "Pepperoni Pizza": 500,
+                "Beef Cheesesteak Pizza": 510,
+                "Chicken Broccoli Alfredo Pizza": 130,
+                "Broccoli Spinach Alfredo Pizza": 350
+            }
+        },
+        "Soup": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/east-side-dining/menu-type/dine-in-soup/2025/02/17/",
+            "menu_items": {
+                "Chicken Noodle Soup": 80,
+                "Vegetarian Minestrone": 70
+            }
+        },
+        "Grill": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/east-side-dining/menu-type/dine-in-grill/2025/02/17/",
+            "menu_items": {
+                "Scrambled Eggs with Cream and Butter": 260,
+                "Scrambled Egg Whites": 70,
+                "Feta & Tomato Egg Scramble": 100,
+                "Green Pepper & Onion Tofu Scramble": 100,
+                "Pork Breakfast Sausage Patty": 150,
+                "Crispy Tater Tots": 180,
+                "Blueberry Pancakes": 170,
+                "Blueberry Compote": 80,
+                "Texas Toast Grilled Cheese Sandwich": 240,
+                "Chili Cheese Beef Hot Dog": 410,
+                "Soy, Gochujang BBQ Fried Chicken Sandwich": 690,
+                "Fried Chicken Tenders": 630,
+                "French Fries": 160,
+                "Grilled Vegetables": 35,
+                "Crispy Ranch Chicken Sandwich with Monterrey Cheese": 510,
+                "Basil Pesto Tomato Mozzarella Caprese Hero": 580,
+                "Cheesy Bacon Jalapeno Ranch Beef Burger": 590,
+                "Fried Zucchini": 190,
+                "Pesto Pasta Salad": 150,
+                "Halal Grilled Chicken": 140
+            }
+        },
+        "Online Menu for Avoiding Gluten Options": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/east-side-dining/menu-type/avoiding-gluten-online-menu/2025/02/17/",
+            "menu_items": {
+                "David's Chocolate Chip Fudge Gluten Free Brownie (Packaged)": 420,
+                "David's Gluten Free Chocolate Chip Cookie (Packaged)": 380,
+                "Build Your Own Pasta with Gluten Free Pasta": 200
+            }
+        },
+        "Pasta Special": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/east-side-dining/menu-type/pasta-bar/2025/02/17/",
+            "menu_items": {
+                "Penne with Beef Meatballs Marinara": 450,
+                "Creamy Rigatoni Ala Vodka": 440,
+                "Cooked Pasta with Oil": 340,
+                "Marinara Sauce": 50,
+                "Base: Alfredo Sauce": 150
+            }
+        },
+        "Salad Bar": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/east-side-dining/menu-type/dine-in-salad-bar/2025/02/17/",
+            "menu_items": {
+                "Mozzarella Cheese": 80,
+                "Cheddar Cheese": 60,
+                "Feta Cheese": 80,
+                "Grilled Buffalo Chicken": 80,
+                "Grilled Chicken": 160,
+                "Hard Boiled Egg": 140,
+                "White Rice": 160,
+                "Croutons": 35,
+                "Mesclun Salad Mix": 5,
+                "Chopped Romaine Lettuce": 10,
+                "Baby Spinach": 5,
+                "Cucumber": 0,
+                "Sliced Red Onion": 10,
+                "Grape Tomatoes": 5,
+                "Shredded Carrots": 10,
+                "Sliced Red Bell Peppers": 5,
+                "Artichoke Hearts": 30,
+                "Cubed Tofu": 50,
+                "Black Beans": 40,
+                "Chickpeas": 70,
+                "Beets, Red, Fresh": 35,
+                "Macaroni Salad": 150,
+                "Black Olives": 40,
+                "Star Ruby Grapefruit": 40,
+                "Mixed Grapes": 50,
+                "Cantaloupe": 15,
+                "Dijon Honey Dressing": 130,
+                "Homestyle Ranch Dressing": 150,
+                "Balsamic Vinaigrette Dressing": 60,
+                "Fat Free Italian Dressing": 25,
+                "Classic Caesar Dressing": 290,
+                "Olive Oil": 240,
+                "Red Wine Vinegar": 5,
+                "Sesame Ginger Soybean Dressing": 120
+            }
+        },
+        "Deli": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/east-side-dining/menu-type/dine-in-deli/2025/02/17/",
+            "menu_items": {
+                "Jalapeno": 10,
+                "Banana Pepper Rings": 0,
+                "Red Onion": 5,
+                "Shredded Iceberg Lettuce": 10,
+                "Sliced Tomatoes": 0,
+                "Bread & Butter Pickles": 25,
+                "Traditional Potato Salad": 250,
+                "Giardiniera": 5,
+                "Wheat Bread": 140,
+                "White Bread": 150,
+                "Rye Bread": 220,
+                "Udi's White Bread": 300,
+                "Spinach Herb Tortilla": 290,
+                "Whole Wheat Flour Tortilla": 290,
+                "Flour Tortilla": 290,
+                "Kaiser Roll": 240,
+                "Black Forest Ham": 90,
+                "Turkey Breast": 60,
+                "Sliced Roast Beef": 60,
+                "Genoa Salami": 230,
+                "Chicken Salad": 180,
+                "Egg Salad": 270,
+                "Albacore Tuna Salad": 240,
+                "Ancho Chipotle Sauce": 50,
+                "Mayonnaise": 90,
+                "Yellow Mustard": 10,
+                "Oil and Red Wine Vinegar": 170,
+                "Thousand Island Dressing": 50,
+                "Cranberry Mayonnaise": 150,
+                "Honey Mustard Dressing": 130,
+                "Homestyle Ranch Dressing": 100,
+                "Balsamic Vinaigrette Dressing": 60,
+                "Creamy Caesar Dressing": 300,
+                "Lettuce Leaf": 5,
+                "Red Onion Ring": 0,
+                "Sliced Swiss Cheese": 110,
+                "Provolone Cheese": 100,
+                "Sliced Cheddar Cheese": 110,
+                "American Cheese": 90
+            }
+        }
+    },
+    "East Side Retail": {
+        "Soup": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/east-side-retail/menu-type/dine-in-soup/2025/02/17/",
+            "menu_items": {
+                "Chicken Noodle Soup": 80,
+                "Vegetarian Minestrone": 70
+            }
+        },
+        "Delancey Street": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/east-side-retail/menu-type/delancey-street/2025/02/17/",
+            "menu_items": {
+                "Avocado Toast with Poached Egg": 460,
+                "Egg White Wrap with Avocado, Arugula, pickled red onion & Pico De Gallo": 490,
+                "Turkey Bacon, Eggs & Vegan Cheese on a Roll": 530,
+                "Avocado": 90,
+                "Grilled Chicken Shawarma Superfood Bowl": 430,
+                "Teriyaki Chicken Brown Rice Bowl": 480,
+                "Veggie Superfood bowl": 280,
+                "Teriyaki Salmon Bowl, Brown Rice, Peppers, Sesame Seeds, Scallions": 380,
+                "BBQ Crispy Chicken Sandwich": 610,
+                "Beef Burger topped with Smoked Turkey Bacon & Vegan Cheese": 570,
+                "California Turkey Burger with Turkey Bacon, Pico De Gallo & Avocado": 510,
+                "California Veggie Burger Melt": 450,
+                "Falafel Pita with Cous Cous and Tahini": 720,
+                "Spicy Honey Lime, Avocado, Grilled Chicken Sandwich": 460,
+                "Crispy Chicken Avocado Wrap": 700,
+                "Teriyaki Burger with Grilled Pineapple Salsa": 650,
+                "French Fries": 160,
+                "Sweet Potato Fries": 290,
+                "Onion Rings": 410,
+                "Potato Knish": 260,
+                "Chickpea Falafel": 160,
+                "Grilled Chicken": 140,
+                "Crispy Chicken": 410,
+                "California Veggie Slider with Pickles, Lettuce, Tomato": 200,
+                "Olive Oil, Tomato & Parsley Couscous": 210,
+                "Peri Peri Roasted Red Potatoes": 130,
+                "Mixed Vegetable": 40,
+                "Vinegar Coleslaw": 130,
+                "Potato Salad": 230,
+                "Macaroni Salad": 220,
+                "Pickle Spear": 0,
+                "Teriyaki Salmon": 620,
+                "Matzoh Balls": 180,
+                "Coca-Cola": 250,
+                "Sprite": 230,
+                "Diet Coke": 0
+            }
+        },
+        "Island Soul": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/east-side-retail/menu-type/island-soul/2025/02/17/",
+            "menu_items": {
+                "Honey Glazed Salmon": 170,
+                "Jerk Chicken": 230,
+                "Mango Chicken": 250,
+                "Pineapple Jerk Chicken": 200,
+                "Jerk BBQ Ribs (Tues & Thurs Only)": 350,
+                "BBQ Jerk Chicken": 190,
+                "5-piece Chicken Wings": 350,
+                "Jerk Chicken Wings (10-piece)": 750,
+                "Rice and Peas with Coconut Milk": 240,
+                "Macaroni & Cheese": 370,
+                "White Rice": 160,
+                "Fried Plantains": 170,
+                "Cajun Fries": 240,
+                "Steamed Vegetables": 70,
+                "Honey Molasses Glaze": 110,
+                "Mango Jerk Sauce": 90,
+                "Pineapple Jerk Sauce": 45,
+                "Red Hot Sauce": 15,
+                "Buffalo Wing Sauce": 5,
+                "Honey BBQ Sauce": 120
+            }
+        },
+        "Wicked Wingz": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/east-side-retail/menu-type/urban-eats-craft-salads/2025/02/17/",
+            "menu_items": {
+                "Wicked Wingz": 430,
+                "Plant-Based \"Chicken\" Wingz": 680,
+                "Homestyle Ranch Dressing": 200,
+                "Blue Cheese Dressing": 160,
+                "Mozzarella Sticks with Marinara Sauce": 500,
+                "Fried Pickle Chips with Ancho Chipotle Dipping Sauce": 590,
+                "Pretzel Bites with Nacho Cheese": 770,
+                "Boneless Breaded Chicken Strips": 2420,
+                "Shoestring Fries": 200,
+                "Coca-Cola": 250,
+                "Sprite": 230,
+                "Diet Coke": 0,
+                "Lemonade": 220,
+                "Water": 0,
+                "Honey BBQ Sauce": 290,
+                "Teriyaki Sauce": 140,
+                "Carolina Tangy Gold BBQ Sauce": 150,
+                "Buffalo Sauce with Butter": 120,
+                "Chipotle BBQ Sauce": 100,
+                "Teriyaki Sesame BBQ Sauce": 120,
+                "Strawberry Habanero BBQ Sauce": 80,
+                "Sesame Zatar Seasoning Mix": 0,
+                "Jerk Seasoning": 20,
+                "Lemon Pepper Seasoning": 0,
+                "Cajun Bayou Seasoning": 10
+            }
+        },
+        "Cocina Fresca": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/east-side-retail/menu-type/urban-eats-smoothies-shakes/2025/02/17/",
+            "menu_items": {
+                "Build Your Own Tacos": 370,
+                "Build Your Own Burrito": 290,
+                "Build Your Own Bowl": 10,
+                "Chicken Quesadilla": 710,
+                "Carne Shredded Beef & Cheese Quesadilla": 750,
+                "Pork Carnitas Quesadilla": 680,
+                "Cheese Quesadilla": 750,
+                "Vegan Beef & Cheese Quesadilla": 680,
+                "Chicken Asada & Nacho Cheese Loaded Nachos": 780,
+                "Shredded Beef Barbacoa & Nacho Cheese Loaded Nachos": 820,
+                "Pork Carnitas & Nacho Cheese Loaded Nachos": 750,
+                "Nacho Cheese Loaded Nachos": 590,
+                "Beyond Chili Spiced \"Beef\" & Nacho Cheese Loaded Nachos": 760,
+                "Cocina Chipotle Ranch": 190,
+                "Scotch Bonnet, Chili, and Poblano Hot Sauce (Extra Hot)": 20,
+                "Avocado Creme": 120,
+                "Guacamole": 70,
+                "Rice & Beans": 150,
+                "Chips & Salsa": 300,
+                "Sour Cream": 110,
+                "Coca-Cola": 250,
+                "Sprite": 230,
+                "Diet Coke": 0,
+                "Lemonade": 220,
+                "Water": 0,
+                "6\" Flour Tortilla": 270,
+                "6\" Yellow Corn Tortilla": 100,
+                "Flour Tortilla (Burrito)": 290,
+                "Chopped Romaine Lettuce": 10,
+                "Chicken Asada": 170,
+                "Shredded Beef Barbacoa": 240,
+                "Citrus Pork Carnitas": 360,
+                "Vegetarian Only": 340,
+                "Beyond Chili Spiced \"Beef\"": 220,
+                "Brown Rice": 110,
+                "Cilantro Lime Brown Rice": 300,
+                "Ranchero Beans": 340,
+                "Spiced Black Beans": 130,
+                "Monterey Jack and Cheddar Cheese": 230,
+                "Queso Fresco": 25,
+                "Pico de Gallo": 15,
+                "Shredded Iceberg Lettuce": 0,
+                "Chopped Cilantro": 0,
+                "House Pickled Jalapenos": 15,
+                "Diced Onions": 15,
+                "Sweet Corn and Black Bean Salsa": 15,
+                "Sauteed Peppers and Onions": 25
+            }
+        },
+        "Carvel Nutritional Information": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/east-side-retail/menu-type/carvel-nutritional-information/2025/02/17/"
+        },
+        "Halal N.Y": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/east-side-retail/menu-type/halal/2025/02/17/",
+            "menu_items": {
+                "Lamb & Beef Gyro": 670,
+                "Chicken Shawarma": 240,
+                "Chickpea Falafel": 250,
+                "Chicken Tender Basket": 580,
+                "Burger on Whole Wheat Bun": 360,
+                "hummus with pita": 350,
+                "Vegetable Samosa": 460,
+                "Parsley, Cucumber, Tomatoes &Peppers Salad": 110,
+                "French Fries": 320,
+                "Masala Fries": 190,
+                "Halal Green Sauce": 35,
+                "Halal White Sauce": 200,
+                "Halal Harissa Red Sauce": 60,
+                "Feta Cheese": 50,
+                "Red Onion": 25,
+                "Black Olives": 40,
+                "Banana Pepper Rings": 0,
+                "Chickpeas": 70,
+                "Classic Hummus": 120,
+                "Baba Ganoush": 220
+            }
+        },
+        "Iron Waffle": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/east-side-retail/menu-type/iron-waffle/2025/02/17/",
+            "menu_items": {
+                "Grilled Cheese Waffle with Tomato Basil Bisque": 600,
+                "Turkey Fig Brie Provolone Waffle Sandwich": 990,
+                "Beef, Provolone, Giardiniera Waffle Au Jus": 620,
+                "Mozzarella Caprese Waffle Pesto Sandwich": 840,
+                "Cinnamon Toast Crunch Roll Waffle": 900,
+                "Strawberry Tuxedo Waffle": 700,
+                "Oreo Smores Marshmallow Waffle": 980,
+                "Banana Pudding Waffle": 930,
+                "Crispy Chicken & Waffles": 860,
+                "BBQ Chicken & Mac & Cheese Waffle": 570,
+                "Crispy Chicken Mashed Potato Waffle": 780,
+                "Sweet Potato Jerk Chicken Waffle & Mango Salsa": 860,
+                "Falafel Waffle": 690
+            }
+        }
+    },
+    "Jasmine": {
+        "Curry Kitchen": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/jasmine/menu-type/curry-kitchen/2025/02/17/",
+            "menu_items": {
+                "Chicken Biryani": 130,
+                "Chicken Tikka Masala": 290,
+                "Tandoori Chicken with Onion Salad": 300,
+                "Butter Naan": 330,
+                "Vegetable Samosa": 460,
+                "Chicken 65": 440,
+                "Masala Aloo": 230,
+                "Yellow Dal": 260,
+                "Aloo Matar": 270
+            }
+        },
+        "Jasmine Tea House": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/jasmine/menu-type/jasmine-tea-house/2025/02/17/"
+        },
+        "Hibachi Grill": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/jasmine/menu-type/hibachi/2025/02/17/",
+            "menu_items": {
+                "Teriyaki Chicken": 190,
+                "Teriyaki Beef": 470,
+                "Teriyaki Tofu": 240,
+                "Teriyaki Vegetables": 190,
+                "Steak & Cheese over Rice": 190,
+                "White Rice": 120
+            }
+        },
+        "Cafetasia Korean": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/jasmine/menu-type/cafetasia-korean/2025/02/17/",
+            "menu_items": {
+                "Beef Bulgogi Bibimbap": 440,
+                "Chicken Bibimbap": 330,
+                "Pork Belly Bibimbap": 440,
+                "Tofu Bibimbap": 320,
+                "Avocado Bibimbap": 360,
+                "Spicy Chicken Bibimbap": 440,
+                "Spicy Pork Bibimbap": 580,
+                "Chicken Wing Dosirak": 920,
+                "Tofu Teriyaki Dosirak": 370,
+                "Shrimp Tempura Dosirak": 540,
+                "Fish Stick Dosirak": 720,
+                "Vietnamese Rice Paper Roll": 360,
+                "Pho Noodles": 1190,
+                "Udon Noodles": 680,
+                "Ramen Noodles": 340,
+                "Chicken Katsu": 650,
+                "Spicy Pepper Shrimp over Rice": 440
+            }
+        },
+        "Cafetasia Chinese": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/jasmine/menu-type/cafetasia-chinese/2025/02/17/",
+            "menu_items": {
+                "Rice Cake": 440,
+                "Pork Wontons": 890,
+                "Vegetable Spring Roll": 250,
+                "Scallion Pancakes": 170,
+                "Crab Cake": 170,
+                "Vegetable Croquette": 360,
+                "Vegetable Cheese Croquette": 660,
+                "Rice Cheese Ball Croquette": 440,
+                "miso soup": 25,
+                "Hot and Sour Soup": 60,
+                "Egg Drop Soup": 40,
+                "Spicy Pork Cupbap": 8610,
+                "Korean Spicy Chicken Wing": 510,
+                "Sesame Lemon Pepper Chicken Wing": 400,
+                "Garlic Parmesan Chicken Wing": 710,
+                "Korean BBQ Chicken Wing": 410,
+                "Buffalo Chicken Wings": 510,
+                "Bulgogi Rice Burger": 370,
+                "Spicy Pork Rice Burger": 430,
+                "Spicy Tuna and Clam Rice Burger": 410,
+                "Bulgogi Rice Burger Combo": 370,
+                "Spicy Pork Rice Burger Combo": 430,
+                "Spicy Tuna and Clam Rice Burger Combo": 410,
+                "Vegetable Fried Rice": 310,
+                "White Rice": 160,
+                "Soy Glazed Lo Mein Noodles": 160,
+                "Vegetable Potstickers": 200,
+                "Steamed Pork Buns with Oyster Sauce": 480
+            }
+        }
+    },
+    "Peet's Coffee": {
+        "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/peets-coffee/menu-type/peets-just-bagels/2025/02/17/",
+        "menu_items": {
+            "Croissant": 270,
+            "Egg & Cheese Bagel Sandwich": 550,
+            "Pork Bacon & Egg Bagel Sandwich": 600,
+            "Pork Sausage & Egg on a Bagel": 570,
+            "Turkey Sausage, Egg on a Bagel": 610,
+            "Pork Bacon, Egg & Cheese Bagel Sandwich": 650,
+            "Pork Sausage, Egg & Cheese Bagel": 790,
+            "Ultimate Breakfast Bagel Sandwich": 970,
+            "Avocado Toast with Toasted Chickpeas, Fresh Greens & Sesame Everything Bagel Seasoning": 680,
+            "California Club Bagel": 600,
+            "Pizza Bagel": 540,
+            "Chickpea \"Tuna\" Bagel Sandwich with Vegan Mayonnaise": 550,
+            "Avocado BLT on a Bagel": 540,
+            "Wolfie's Breakfast Sandwich with Scrambled Eggs, Turkey Sausage, Bacon, Cheddar Cheese & Tots": 1200,
+            "Tater Tots": 190,
+            "David's Chocolate Chip Brownie": 500,
+            "Cinnamon Roll": 670,
+            "Chocolate Chocolate Chip Muffin": 460,
+            "Blueberry Muffin": 360,
+            "Oatmeal": 150
+        }
+    },
+    "Roth": {
+        "Popeyes": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/roth/menu-type/popeyes/2025/02/17/",
+            "menu_items": {
+                "#1 The Sandwich": 700,
+                "#2 Bacon and Cheese Sandwich": 700,
+                "Biscuit, 1 Piece": 210,
+                "Biscuit, 6 Piece": 1260,
+                "Biscuit, 12 Piece": 2520,
+                "Cinnamon Apple Pie": 240,
+                "Chocolate Chip Biscuit": 310
+            }
+        },
+        "Subway": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/roth/menu-type/subway/2025/02/17/",
+            "menu_items": {
+                "Subway | U.S Nutritional Information": 0,
+                "Subway | U.S Allergy and Sensitivity Information": 0,
+                "Subway | U.S Product Ingredient Guide": 0
+            }
+        },
+        "Savor": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/roth/menu-type/chef-jet/2025/02/17/",
+            "menu_items": {
+                "Jumbo Cheese Stuffed Shells": 880,
+                "Manicotti with Marinara": 620,
+                "Baked Ziti": 240,
+                "Pasta Saut\u00e9": 100,
+                "Pasta Saut\u00e9 with Chicken": 220,
+                "Pasta Saut\u00e9 with Pork Sausage": 460,
+                "Pasta Saut\u00e9 with Vegan Meatballs": 220,
+                "Pasta Saut\u00e9 with Beef & Pork Meatballs": 660,
+                "Coca-Cola": 250,
+                "Diet Coke": 0,
+                "Sprite": 230,
+                "Dr. Pepper": 230,
+                "Orange Fanta": 10,
+                "Fruit Punch": 250,
+                "Lemonade": 220,
+                "Sweet Iced Tea": 200,
+                "Dasani Water": 0
+            }
+        },
+        "Smash n' Shake": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/roth/menu-type/smash-n-shake/2025/02/17/",
+            "menu_items": {
+                "Classic Smash Beef Burger Combo": 670,
+                "To The Max Burger* Combo": 710,
+                "BBQ Bacon Cheddar Ranch Beef Burger Combo": 990,
+                "The Wolf Attack Combo": 610,
+                "Grilled Chicken Sandwich Combo": 540,
+                "Smash Mushroom, Swiss Cheese, Truffle Beef Burger": 790,
+                "Turkey Burger Combo": 620,
+                "Beyond Burger Combo": 670,
+                "Carolina Mustard Pulled Pork Sandwich": 410,
+                "Classic Smash Beef Burger": 670,
+                "Grilled Chicken Sandwich": 540,
+                "Turkey Burger": 620,
+                "Beyond Burger": 670,
+                "Malibu Garden Burger": 300,
+                "The Wolf Attack": 610,
+                "Hot Shaker Fries": 160,
+                "Vanilla Milkshake": 350,
+                "Chocolate Milkshake": 420,
+                "Strawberry Milkshake": 450,
+                "Coca-Cola": 250,
+                "Diet Coke": 0,
+                "Sprite": 230,
+                "Dr. Pepper": 230,
+                "Orange Fanta": 10,
+                "Fruit Punch": 250,
+                "Lemonade": 220,
+                "Sweet Iced Tea": 200,
+                "Dasani Water": 0
+            }
+        }
+    },
+    "Student Activities Center": {
+        "Seawolves Pizza": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/sac/menu-type/tuscan-bistro/2025/02/17/",
+            "menu_items": {
+                "Cheese Pizza": 2860,
+                "Pepperoni Pizza": 4010,
+                "Buffalo Chicken Ranch Pizza": 580,
+                "Vodka Pizza": 300,
+                "Chopped Salad Pizza with Tomato Bruschetta, Fresh Mozzarella & Balsamic Glaze": 320,
+                "Philly Cheesesteak Pinwheel": 420,
+                "Pepperoni Pinwheel": 510,
+                "Chicken Parmesan Roll": 880,
+                "Pepperoni and Cheese Stromboli": 730,
+                "meatball slider": 350,
+                "Chicken Parmesan Slider": 190,
+                "italian slider": 250,
+                "Penne a la Vodka": 270,
+                "Penne Marinara": 320,
+                "Garlic Knots": 530,
+                "Caesar Salad": 540,
+                "Greek Salad with Feta Cheese": 220
+            }
+        },
+        "Noodles": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/sac/menu-type/noodles/2025/02/17/",
+            "menu_items": {
+                "Silky Tofu, Rice Noodles, Miso Broth Bowl": 880,
+                "Grilled Chicken, Rice Noodles, Miso Broth Bowl": 890,
+                "Grilled Chicken, Lo Mein Noodles, Miso Broth Bowl": 830,
+                "Silky Tofu, Lo Mein Noodles, Miso Broth Bowl": 830
+            }
+        },
+        "Wok Work | Stir Fry": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/sac/menu-type/stiry-fry/2025/02/17/",
+            "menu_items": {
+                "Char Siu Roast Pork": 320,
+                "Tofu Tempura": 200,
+                "Soy Marinated Chicken": 170,
+                "Shrimp": 110,
+                "Double Shrimp": 80,
+                "Lo Mein Noodles": 160,
+                "Jasmine Rice": 150,
+                "Scrambled Eggs": 200,
+                "Broccoli": 20,
+                "Shredded Carrots": 10,
+                "Bok Choy": 0,
+                "Red and Green Bell Peppers": 15,
+                "Edamame": 20,
+                "General Tso's Sauce": 60,
+                "Less Sodium Teriyaki Sauce": 60,
+                "Orange, Ginger & Soy Glaze": 70,
+                "Soy Sauce": 10
+            }
+        },
+        "SAC Grill": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/sac/menu-type/grill/2025/02/17/",
+            "menu_items": {
+                "1/3 lb beef burger white bun": 490,
+                "Beef Burger with Cheese on a Bun": 540,
+                "Bacon Cheeseburger": 530,
+                "Garden Burger": 350,
+                "Buffalo Crispy Chicken Sandwich": 500,
+                "Grilled Chicken Sandwich": 290,
+                "Chicken Tenders": 600,
+                "Mozzarella Sticks with Marinara Sauce": 500,
+                "French Fries": 160,
+                "Onion Rings": 380,
+                "Cheddar & American Grilled Cheese Sourdough": 390
+            }
+        },
+        "Kickin' Chickin'": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/sac/menu-type/kick-n-chicken/2025/02/17/",
+            "menu_items": {
+                "Classic 'Wich": 840,
+                "Nashville Hot 'Wich": 540,
+                "Buffalo Bacon Mac 'Wich": 830,
+                "Meatless Classic' Wich": 720,
+                "Meatless Nashville Hot 'Wich": 560,
+                "Meatless Buffalo Chick'n 'Wich": 520,
+                "Mac n Cheese": 430,
+                "Krinkle Cut Fries": 270,
+                "Crispy Tater Tots": 360,
+                "The Coop": 800,
+                "BBQ Pulled Chicken Po Boy'Wich": 430
+            }
+        },
+        "Soups & Chili": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/sac/menu-type/grab-n-go/2025/02/17/",
+            "menu_items": {
+                "Lemon Orzo Chicken Soup": 320,
+                "Vegetable Beef Barley Soup": 220,
+                "Baked Stuffed Potato Soup": 510,
+                "Beef Chili": 430
+            }
+        },
+        "Healthy By Nature": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/sac/menu-type/healthy-by-nature-2/2025/02/17/",
+            "menu_items": {
+                "Blackened Chicken Bowl with Pineapple Salsa": 390,
+                "Teriyaki Cauliflower Bowl": 580,
+                "Bulgogi Steak, Kimchi, Sriracha Mayo, Vegetable Rice Bowl": 530,
+                "Jerk Tofu": 110,
+                "Grilled Blackened Chicken": 120,
+                "Chili Lime Salmon": 280
+            }
+        },
+        "Corner Deli": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/sac/menu-type/deli/2025/02/17/",
+            "menu_items": {
+                "Keller Hall Toasted Hero": 940,
+                "West Side Avocado Toast": 300,
+                "Hail Caesar Wrap": 930,
+                "Nobel Hall Wrap": 670,
+                "The Plaza Wrap": 590,
+                "Sliced Turkey": 150,
+                "Sliced Ham": 220,
+                "Roast Beef": 150,
+                "Grilled Chicken": 170,
+                "Crispy Chicken Cutlet": 260,
+                "Balsamic Glazed Vegetables": 80,
+                "Tuna Salad": 200,
+                "Chickpea \"Tuna\"": 140,
+                "Dasani Water": 0,
+                "Coca-Cola": 240,
+                "Diet Coke": 0,
+                "Sprite, 20 oz": 230,
+                "Lay's, Classic Potato Chips": 240,
+                "Doritos, Nacho Cheese": 260,
+                "Doritos, Cool Ranch": 260,
+                "David's Chocolate Chip Brownie": 500
+            }
+        }
+    },
+    "Seawolves Kitchen - Training Table": {
+        "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/seawolves-kitchen-training-table/menu-type/seawolves-kitchen-training-table/2025/02/17/",
+        "menu_items": {
+            "French Toast Sticks with Maple Syrup": 370,
+            "Roasted Chicken Provencal": 680,
+            "Penne a la Vodka": 210,
+            "Mixed Vegetable Blend Vegetables": 45,
+            "Wild Rice Pilaf": 230,
+            "Grilled Chicken": 140,
+            "Garden Salad": 40,
+            "Balsamic Vinaigrette Dressing": 60,
+            "Fat Free Italian Dressing": 15,
+            "Homestyle Ranch Dressing": 100,
+            "Honey Mustard Dressing": 130,
+            "Classic Caesar Dressing": 150,
+            "Gold Barbecue Sauce": 60,
+            "General Tso's Chicken, Teriyaki Sauce, Green Peppers, Onions, Sesame Seeds": 260,
+            "Steamed White Rice": 80,
+            "Lo Mein Noodles": 160,
+            "Teriyaki Vegetables": 100
+        }
+    },
+    "Starbucks | Roth": {
+        "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/starbucks-roth/menu-type/starbucks/2025/02/17/"
+    },
+    "Stony Brook Southhampton": {
+        "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/stony-brook-southampton/menu-type/southhampton-specials/2025/02/17/",
+        "menu_items": {
+            "Pork Bacon, Egg & Cheese on a English Muffin": 350,
+            "Turkey Sausage, Egg, Cheese on a English Muffin": 340,
+            "Double Egg & Cheese on a English Muffin": 330,
+            "Cheddar & American Grilled Cheese Sourdough": 390,
+            "Bacon & Tomato Grilled Cheese": 480,
+            "Roasted Chicken Gyro, Yogurt Tzatziki, Feta Cheese Panini": 650,
+            "Garlic Broccoli Rabe, Swiss Cheese & Spinach Panini": 900,
+            "Grilled Chicken, Basil Pesto, Mozzarella Panini": 780,
+            "Cheese Quesadilla": 150,
+            "Chicken Quesadilla on Wheat": 570,
+            "Chicken Noodle Soup": 150,
+            "Baked Stuffed Potato Soup": 510,
+            "Tomato Basil Bisque": 320,
+            "Lemon Orzo Chicken Soup": 320,
+            "Personal Cheese Pizza": 880,
+            "Personal Pepperoni Cheese Pizza": 1300,
+            "Coca-Cola": 240,
+            "Diet Coke": 0,
+            "Sprite": 230,
+            "Water": 0,
+            "Sweet Iced Tea": 160
+        }
+    },
+    "West Side Dining": {
+        "Breakfast Specials": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/west-side-dining/menu-type/dine-in-hot-breakfast-buffet/2025/02/17/",
+            "menu_items": {
+                "Scrambled Eggs with Cream and Butter": 260,
+                "Scrambled Egg Whites": 70,
+                "Crispy Tater Tots": 180,
+                "Turkey Bacon": 50,
+                "Veggie Fritatta": 150,
+                "Cinnamon Vanilla French Toast": 190,
+                "Green Pepper & Onion Tofu Scramble": 150,
+                "Apple Compote": 60
+            }
+        },
+        "Bagels, Breads & Spreads": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/west-side-dining/menu-type/dine-in-bagel-bar/2025/02/17/",
+            "menu_items": {
+                "Sesame Seed Bagel": 260,
+                "Whole Wheat Bagel": 260,
+                "Plain Bagel": 300,
+                "Mini Poppy Seed Bagel": 110,
+                "Wheat Bread": 140,
+                "White Bread": 150,
+                "Rye Bread": 220,
+                "Grape Jelly": 60,
+                "Strawberry Jelly Preserves": 60,
+                "Unsalted Butter": 100,
+                "Cream Cheese": 50,
+                "Oreo Cream Cheese": 120,
+                "Vegetable Cream Cheese": 80
+            }
+        },
+        "Hot Cereal": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/west-side-dining/menu-type/dine-in-hot-cereal/2025/02/17/",
+            "menu_items": {
+                "Oatmeal": 150,
+                "Light Brown Sugar": 50,
+                "Ground Cinnamon": 5,
+                "Oats 'n Honey Granola": 20,
+                "Golden Raisins": 30,
+                "Dried Cranberries": 30
+            }
+        },
+        "Omelet Bar": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/west-side-dining/menu-type/dine-in-omelet-bar/2025/02/17/",
+            "menu_items": {
+                "Sauteed Bell Peppers": 30,
+                "Sauteed Onion": 40,
+                "Roasted Mushrooms": 60,
+                "Spinach": 35,
+                "Ham": 30,
+                "Bacon Bits": 35,
+                "Scrambled Eggs": 200,
+                "Scrambled Egg Whites": 70,
+                "Turkey Breast": 30
+            }
+        },
+        "Yogurt & Fruit Bar": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/west-side-dining/menu-type/yogurt-fruit-bar/2025/02/17/",
+            "menu_items": {
+                "Low Fat Strawberry Yogurt": 110,
+                "Oats 'n Honey Granola": 20,
+                "Fat Free Greek Plain Yogurt": 60,
+                "Low Fat Vanilla Yogurt": 110,
+                "Cantaloupe": 15,
+                "Pineapple": 20,
+                "Honeydew": 15
+            }
+        },
+        "International Market": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/west-side-dining/menu-type/internation-market/2025/02/17/",
+            "menu_items": {
+                "Chimichurri Pork": 360,
+                "Black Beans & Rice": 110,
+                "Pickled Cabbage Slaw": 20,
+                "Sweet Plantains": 210,
+                "Chicken Tikka Masala": 350,
+                "Basmati Rice": 110,
+                "Sauteed Collard Greens": 35
+            }
+        },
+        "Taste Changers": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/west-side-dining/menu-type/taste-changers/2025/02/17/",
+            "menu_items": {
+                "Teriyaki Tofu": 270,
+                "Scallion Oil Soba Noodles": 170,
+                "Jasmine Rice": 150,
+                "Stir Fry Vegetables": 130,
+                "Chow Mein Noodles": 220,
+                "Soy Sauce": 0,
+                "Cholula Hot Sauce": 0,
+                "Sweet Thai Chili Sauce": 70,
+                "Tilapia with Mango Sweet Chili Sauce": 180,
+                "Five Spice Green Beans": 35,
+                "Soba Noodles with Soy Sauce. Bok Choy, Carrots, Snow Peas": 230,
+                "Vegetable Fried Rice": 310
+            }
+        },
+        "Rooted": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/west-side-dining/menu-type/dine-in-vegan-delights/2025/02/17/",
+            "menu_items": {
+                "Chimichurri Charred Brussels Sprouts": 80,
+                "Vegan Dal Bukhara (Curried Black Lentils)": 140,
+                "Scallion Jasmine Rice": 100,
+                "chili roasted butternut squash": 60,
+                "Black Beans": 120,
+                "Roasted Garlic Kale": 60,
+                "Vegan Meatballs in Marinara": 100,
+                "Barilla Whole Wheat Elbow": 150
+            }
+        },
+        "Dessert": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/west-side-dining/menu-type/dine-in-dessert/2025/02/17/",
+            "menu_items": {
+                "Cinnamon Apple Mini Muffin": 240,
+                "Pumpkin Mini Muffin": 250,
+                "Cranberry Mini Muffin": 290,
+                "Chocolate Chip Mini Muffin": 310,
+                "Banana Mini Muffin": 250,
+                "Chocolate Chocolate Chip Mini Muffin": 310,
+                "Corn Mini Muffin": 240,
+                "Carrot Mini Muffin": 220,
+                "Bran Mini Muffin": 230,
+                "Blueberry Mini Muffin": 250,
+                "Lemon Poppy Mini Muffin": 290,
+                "Chocolate Chip Yogurt Jumbo Muffin": 580,
+                "Blueberry Yogurt Jumbo Muffin": 480,
+                "Black and White Cookie": 230,
+                "David's Chocolate Chip Cookie": 180,
+                "David's Gluten Free Chocolate Chip Cookie": 380,
+                "David's Chocolate Chunk Cookie": 190,
+                "David's Oatmeal Raisin Cookie": 170,
+                "David's Sugar Cookie": 190,
+                "Linzer Tart Cookies": 150,
+                "David's Chocolate Chip Brownies": 500,
+                "Brownie (Frosted)": 160,
+                "Marble Pound Cake": 230,
+                "Plain Pound Cake": 450,
+                "Chocolate Yogurt Pound Cake": 470,
+                "Lemon Poppy Seed Yogurt Pound Cake": 450,
+                "Blueberry Yogurt Pound Cake": 450,
+                "Plain Yogurt Pound Cake": 450,
+                "Marble Yogurt Pound Cake": 460,
+                "Carrot Pound Cake": 330,
+                "Meltaway Ring": 180,
+                "Blueberry Scone": 250,
+                "Chocolate Chip Scone": 300,
+                "Blueberry Scone (mini)": 35,
+                "Chocolate Chip Scone (mini)": 45,
+                "Cranberry Scone (mini)": 40,
+                "Cinnamon Raisin Scone (mini)": 40,
+                "Cheese Mini Danish": 160,
+                "Cinnamon Bun Danish Mini": 160,
+                "Apple Turnover Danish Mini": 80,
+                "Blueberry Mini Danish": 150,
+                "Cinnamon Mini Danish": 170,
+                "Lemon Mini Danish": 150,
+                "Raspberry Mini Danish": 150,
+                "Vanilla Cupcake with Vanilla Icing": 240,
+                "Vanilla Cupcake with Chocolate Icing": 270,
+                "Chocolate Cupcake with Chocolate Icing": 280,
+                "Chocolate Cupcake with Vanilla Icing": 270,
+                "Chocolate Mousse Cake": 550,
+                "Sara Lee Iced Chocolate Cake": 300,
+                "Sara Lee Iced Banana Cake": 270,
+                "Honey Cake": 250,
+                "Carrot Bundt Cake": 350,
+                "Blueberry Bundt Cake": 410,
+                "Chocolate Bundt Cake with Icing": 460,
+                "Apple Bundt Cake": 370,
+                "Lemon Bundt Cake with Icing": 450,
+                "Italian Cannoli": 120,
+                "Italian Chocolate Cannoli": 160,
+                "Italian Cream Puff": 70,
+                "Italian Chocolate Cream Puff": 70,
+                "Italian Cream Cheese Puff": 100,
+                "Apple Crumb Pie 10\"": 380,
+                "Apple Pie 10\"": 270,
+                "Mini Fruit Tart": 100
+            }
+        },
+        "Pizza": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/west-side-dining/menu-type/dine-in-pizza/2025/02/17/",
+            "menu_items": {
+                "Cheese Pizza": 180,
+                "Pepperoni Pizza": 250,
+                "Mozzarella Cheese Pizza, Roasted Cauliflower": 350,
+                "Meat Lover's (Pork Sausage, Pepperoni) Cheese Pizza": 2620,
+                "Southwestern Chicken Pizza": 210,
+                "spinach alfredo pizza": 950
+            }
+        },
+        "Soup": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/west-side-dining/menu-type/dine-in-soup/2025/02/17/",
+            "menu_items": {
+                "Chef Meg's Chicken Noodle Soup": 250,
+                "Tomato Basil Bisque": 160,
+                "Wonton Strips": 20,
+                "Croutons": 35
+            }
+        },
+        "Grill": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/west-side-dining/menu-type/dine-in-grill/2025/02/17/",
+            "menu_items": {
+                "Cheese Quesadilla": 150,
+                "Cheeseburger on Brioche Bun": 560,
+                "Corn & Pepper, Cheddar, Chipotle Mayo Beef Hotdog (SBU)": 450,
+                "Grilled Vegetables": 90,
+                "French Fries": 230,
+                "Crispy Tater Tots": 180,
+                "Cajun Turkey Burger on a Whole Grain Bun": 380,
+                "Chicken Parmesan Slider": 190,
+                "Jalapeno & Bell Pepper Cheese Quesadilla": 490,
+                "Shredded Iceberg Lettuce": 10,
+                "Sliced Red Onion": 10,
+                "Sliced Tomatoes": 0,
+                "Bread & Butter Pickles": 25,
+                "Jalapeno": 0,
+                "Giardiniera": 5,
+                "Halal Grilled Chicken": 140
+            }
+        },
+        "Online Menu for Avoiding Gluten Options": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/west-side-dining/menu-type/avoiding-gluten-online-menu/2025/02/17/",
+            "menu_items": {
+                "David's Gluten Free Chocolate Chip Cookie (Packaged)": 380,
+                "David's Chocolate Chip Fudge Gluten Free Brownie (Packaged)": 420,
+                "Build Your Own Gluten Free Pasta": 200
+            }
+        },
+        "Pasta Specials": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/west-side-dining/menu-type/pasta-bar/2025/02/17/",
+            "menu_items": {
+                "Spaghetti, Parmesan Cheese, Oil": 1360,
+                "Rigatoni Pasta with Sausage, Zucchini, Mozzarella": 560,
+                "Pesto Shrimp Penne with Parmesan Cheese": 370,
+                "Broccoli & Cheddar Mac & Cheese": 440
+            }
+        },
+        "Salad Bar": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/west-side-dining/menu-type/dine-in-salad-bar/2025/02/17/",
+            "menu_items": {
+                "Shredded Red Cabbage": 5,
+                "Spring Mix": 0,
+                "Baby Spinach": 0,
+                "Grape Tomatoes": 5,
+                "Cucumber": 0,
+                "Shredded Carrots": 10,
+                "Sliced Red Onion": 10,
+                "Chickpeas": 70,
+                "Red and Green Bell Peppers": 15,
+                "Diced Beets": 15,
+                "Mandarin Orange Sections": 20,
+                "Sliced Black Olives": 35,
+                "Artichoke Hearts": 30,
+                "Monterey Jack Cheese": 25,
+                "Pork bacon": 45,
+                "Hard Boiled Egg": 70,
+                "Cajun Tofu": 120,
+                "Wonton Strips": 20,
+                "Dijon Honey Dressing": 130,
+                "Homestyle Ranch Dressing": 150,
+                "Balsamic Vinaigrette Dressing": 60,
+                "Fat Free Italian Dressing": 15,
+                "Classic Caesar Dressing": 290,
+                "Olive Oil": 240,
+                "Red Wine Vinegar": 5,
+                "Sesame Ginger Soybean Dressing": 120
+            }
+        },
+        "Deli": {
+            "url": "https://stonybrook.api.nutrislice.com/menu/api/weeks/school/west-side-dining/menu-type/dine-in-deli/2025/02/17/",
+            "menu_items": {
+                "Sliced Jalapeno": 10,
+                "Red Potato Salad": 160,
+                "Mediterranean Pasta Salad": 210,
+                "Carrot and Yogurt Salad": 110,
+                "Broccoli Slaw": 50,
+                "Coleslaw": 120,
+                "Hummus": 100,
+                "House Made Marinated Beets": 60,
+                "Roasted Corn Salad": 50,
+                "Homemade Macaroni Salad": 190,
+                "Salad Potato German": 160,
+                "Wheat Bread": 140,
+                "White Bread": 150,
+                "Rye Bread": 220,
+                "Udi's White Bread": 300,
+                "Spinach Herb Tortilla": 290,
+                "Whole Wheat Flour Tortilla": 290,
+                "Flour Tortilla": 290,
+                "Kaiser Roll": 240,
+                "Sliced Swiss Cheese": 110,
+                "Provolone Cheese": 100,
+                "Sliced Cheddar Cheese": 110,
+                "American Cheese": 90,
+                "Black Forest Ham": 45,
+                "Turkey Breast": 30,
+                "Sliced Roast Beef": 30,
+                "Genoa Salami": 120,
+                "Chicken Salad": 140,
+                "Egg Salad": 200,
+                "Albacore Tuna Salad": 180,
+                "Ranch Dressing": 140,
+                "Honey Mustard Dressing": 130,
+                "Mustard": 10,
+                "Gold Barbecue Sauce": 60,
+                "Mayonnaise": 90,
+                "Ancho Chipotle Sauce": 50,
+                "Lettuce Leaf": 5,
+                "Sliced Tomatoes": 0,
+                "Red Onion Ring": 0,
+                "Bread & Butter Pickles": 25,
+                "Cucumber": 0,
+                "Sliced Green Bell Pepper": 0
+            }
+        }
+    }
+}
