@@ -1,0 +1,9 @@
+# Core dependencies
+openai>=1.0.0        # For OpenAI API access (diet plan generator)
+requests>=2.31.0     # For HTTP requests (menu data fetcher)
+
+playwright>=1.0.0
+beautifulsoup4>=4.9.0
+
+
+
