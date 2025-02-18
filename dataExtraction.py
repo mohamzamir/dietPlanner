@@ -52,7 +52,66 @@ def fetch_and_process_menu(url):
     Returns:
         Dictionary of {item_name: calories} or None if request fails
     """
-        return None
+
+    # Make an HTTP GET request to the provided URL
+    # This sends a request to the server to fetch the menu data
+    response = requests.get(url)
+
+    # Check if the request was successful by verifying the status code
+    # A status code of 200 means the request was successful
+    if response.status_code == 200:
+        # Parse the response content as JSON
+        # This converts the response into a Python dictionary for easy access
+        data = response.json()
+
+        # Initialize an empty dictionary to store today's menu items
+        # This will hold the food items and their corresponding calorie counts
+        menu_items = {}
+
+        # Get today's date in the format used by the API (YYYY-MM-DD)
+        # This ensures we only process menu items for the current day
+        today_str = datetime.now().strftime("%Y-%m-%d")
+
+        # Iterate through the 'days' key in the JSON data
+        # Each 'day' represents a day's menu in the API response
+        for day in data.get('days', []):
+            # Check if the current day's date matches today's date
+            if day.get('date') == today_str:
+                # Iterate through the 'menu_items' key in the current day's data
+                # Each 'item' represents a food item or a section header
+                for item in day.get('menu_items', []):
+                    # Skip items that are section headers or don't have food data
+                    # Section headers are not actual food items and should be ignored
+                    if not item.get('is_section_title') and item.get('food'):
+                        # Extract the 'food' object from the item
+                        # This contains details like the food name and nutrition info
+                        food = item['food']
+
+                        # Extract and clean the food name
+                        # The 'name' key holds the food item's name, and we strip any extra spaces
+                        name = food.get('name', '').strip()
+
+                        # Extract the calorie count from the nutrition info
+                        # The 'rounded_nutrition_info' key contains calorie data
+                        calories = food.get('rounded_nutrition_info', {}).get('calories')
+
+                        # Only add the item to the menu if it has a valid name and calorie count
+                        # This ensures we don't include incomplete or invalid entries
+                        if name and calories is not None:
+                            # Add the food item to the menu_items dictionary
+                            # The key is the food name, and the value is the rounded calorie count
+                            menu_items[name] = int(round(calories))
+
+                # Exit the loop after processing today's menu
+                # No need to check other days since we've found today's data
+                break
+
+        # Return the dictionary of today's menu items with their calorie counts
+        return menu_items
+
+    # If the request was not successful (status code is not 200), return None
+    # This indicates that the menu data could not be fetched
+    return None
 
 
 def process_node(node):
